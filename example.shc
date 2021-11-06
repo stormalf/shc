@@ -1,0 +1,7 @@
+# a small comment
+echo "test" > result.txt
+echo "hello world!"
+ls
+## more comments
+## still more comments 
+date
